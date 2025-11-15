@@ -1,8 +1,6 @@
 # KernelSURepoForOnePlus
 - OnePlus全机型的KernelSU手机,包括Non-GKI(4.9-4.14)以及GKI1.0(4.19-5.4(QGKI)),GKI2.0
 # 受KernelSU支持的机型以及分支分支：
-- KernelSU
-- KernelSU Next
 - Sukisu Ultra
    
 # 通用内核映像 (GKI) 项目的介绍
